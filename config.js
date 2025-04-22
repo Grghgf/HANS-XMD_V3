@@ -21,7 +21,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://raw.githubusercontent.com
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "HANS-XMD_V3",
+BOT_NAME: process.env.BOT_NAME || "MAMELO🦂",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "HansTz/Hans-Xmd",
 // type sticker pack name 
@@ -29,11 +29,11 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-DELETE_LINKS: process.env.DELETE_LINKS || "false",
+DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255760774888",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "242069283966",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Hans Tᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "LAMELO🦂",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Hans-Xmd_V3*",
 // add bot owner name    
@@ -65,7 +65,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "255760774888",
+DEV: process.env.DEV || "242069283966",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
